@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp058
 {
+    /// <summary>
+    /// Creating car object with some state and behaviour
+    /// </summary>
     class Car
     {
         string color = "red";
