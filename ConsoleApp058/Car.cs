@@ -21,7 +21,7 @@ namespace ConsoleApp058
 
         public static void Brake()
         {
-            Console.WriteLine("brake");
+            Console.WriteLine("new message Added");
         }
 
         static void Main(string[] args)
