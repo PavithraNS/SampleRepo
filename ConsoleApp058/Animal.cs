@@ -8,9 +8,9 @@ namespace ConsoleApp058
 {
     class Animal
     {
-	public void Details()
-	{
-		Console.Write("Deatils");
-	}
+	 public void AnimalDeatils()
+        {	
+            Console.Write("Details");
+        }
     }
 }
